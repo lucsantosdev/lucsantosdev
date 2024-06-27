@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💻 <strong>Techs:</strong> TypeScript, React, Nodejs, Next.js, PostgreSQL, Sass, Bootstrap.
+  💻 <strong>Techs:</strong> TypeScript, React, Nodejs, Next.js, MongoDB, PostgreSQL, Sass, Bootstrap.
 </p>
 
 <p align="left">
